@@ -25,6 +25,7 @@
             </Grid.RowDefinitions>
             <Label Content="Список благотворительных организаций" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="20" Foreground="Gray"/>
             <Label Content="Это - список всех благотворительных учереждений, которые поддерживаются в&#10;     Marathon Skills 2016. Спасибо за помощь вы поддерживаете их, спонсируя&#10;                                                            бегунов!" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="15" Grid.Row="1" Padding="-5"/>
+            <TextBlock/>
             <ListBox Grid.Row="3" x:Name="ListCharity">
                 <ListBox.ItemTemplate>
                     <DataTemplate>

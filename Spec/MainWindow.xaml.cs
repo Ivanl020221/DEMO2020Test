@@ -25,6 +25,7 @@ namespace Spec
         {
             InitializeComponent();
             //ListCharity.ItemsSource = new marathonEntities().Charity.ToList();
+            //SelectedDatesCollection;sdkknsdsdj
         }
     }
 }

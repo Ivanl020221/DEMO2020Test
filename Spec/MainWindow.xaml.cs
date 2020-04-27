@@ -24,7 +24,7 @@ namespace Spec
         public MainWindow()
         {
             InitializeComponent();
-            ListCharity.ItemsSource = new marathonEntities().Charity.ToList();
+            //ListCharity.ItemsSource = new marathonEntities().Charity.ToList();
         }
     }
 }
